@@ -4,5 +4,3 @@ node_modules/
 #ignore json files
 *.json
 
-#ignore readme file
-readme.txt
